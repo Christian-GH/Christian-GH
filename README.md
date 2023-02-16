@@ -1,8 +1,8 @@
 - Hi, I’m Christian
-- I’m interested in tech and modern solutions to empower buyers across real estate platforms. 
-- I’m currently learning Python, C, HTML, CSS, and JavaScript
-- I’m looking to collaborate on any projects revolving round end to end sales platforms. 
-- How to reach me: IG: christian__sauceda
+- I’m interested in tech and studying to earn my bachelors in software engineering. 
+- I’m currently learning Python, and C++.
+- Email: sauceda.christian@gmail.com
+- IG: christian__sauceda
 
 <!---
 Christian-GH/Christian-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
